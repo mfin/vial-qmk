@@ -2,6 +2,9 @@ VIA_ENABLE = yes
 VIAL_ENABLE = yes
 LTO_ENABLE = yes
 
+QMK_SETTINGS = no
+TAP_DANCE_ENABLE = no
+COMBO_ENABLE = no
 BOOTMAGIC_ENABLE = yes      # Enable Bootmagic Lite
 MOUSEKEY_ENABLE = no       # Mouse keys
 EXTRAKEY_ENABLE = yes       # Audio control and System control
